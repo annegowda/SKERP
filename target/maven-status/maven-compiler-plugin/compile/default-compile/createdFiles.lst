@@ -1,0 +1,8 @@
+com\skerp\qa\pages\AEPSListPage.class
+com\skerp\testbase\TestBase.class
+com\skerp\qa\utils\Util.class
+com\skerp\qa\ExtendReport\ExtentReporterNG.class
+com\skerp\qa\pages\HomePage.class
+com\skerp\qa\utils\WebElementListner.class
+com\skerp\qa\pages\MenuPage.class
+com\skerp\qa\pages\LoginPage.class

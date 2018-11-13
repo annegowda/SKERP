@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24" started-at="2018-11-09T15:49:19Z" finished-at="2018-11-09T15:49:19Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24" started-at="2018-11-09T15:49:19Z" finished-at="2018-11-09T15:49:19Z">
+      <class name="com.skerp.qa.pagetest.Test1">
+        <test-method status="PASS" signature="bfs()[pri:0, instance:com.skerp.qa.pagetest.Test1@3bfdc050]" name="bfs" is-config="true" duration-ms="201" started-at="2018-11-09T21:19:19Z" finished-at="2018-11-09T21:19:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfs -->
+        <test-method status="PASS" signature="bfT()[pri:0, instance:com.skerp.qa.pagetest.Test1@3bfdc050]" name="bfT" is-config="true" duration-ms="0" started-at="2018-11-09T21:19:19Z" finished-at="2018-11-09T21:19:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfT -->
+        <test-method status="PASS" signature="bfC()[pri:0, instance:com.skerp.qa.pagetest.Test1@3bfdc050]" name="bfC" is-config="true" duration-ms="0" started-at="2018-11-09T21:19:19Z" finished-at="2018-11-09T21:19:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfC -->
+        <test-method status="PASS" signature="test11()[pri:0, instance:com.skerp.qa.pagetest.Test1@3bfdc050]" name="test11" duration-ms="5" started-at="2018-11-09T21:19:19Z" finished-at="2018-11-09T21:19:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+        <test-method status="PASS" signature="bfM(java.lang.reflect.Method)[pri:0, instance:com.skerp.qa.pagetest.Test1@3bfdc050]" name="bfM" is-config="true" duration-ms="0" started-at="2018-11-09T21:19:19Z" finished-at="2018-11-09T21:19:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.skerp.qa.pagetest.Test1.test11()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfM -->
+        <test-method status="PASS" signature="AfM()[pri:0, instance:com.skerp.qa.pagetest.Test1@3bfdc050]" name="AfM" is-config="true" duration-ms="0" started-at="2018-11-09T21:19:19Z" finished-at="2018-11-09T21:19:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfM -->
+        <test-method status="PASS" signature="bfM(java.lang.reflect.Method)[pri:0, instance:com.skerp.qa.pagetest.Test1@3bfdc050]" name="bfM" is-config="true" duration-ms="0" started-at="2018-11-09T21:19:19Z" finished-at="2018-11-09T21:19:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.skerp.qa.pagetest.Test1.test2()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfM -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.skerp.qa.pagetest.Test1@3bfdc050]" name="test2" duration-ms="1" started-at="2018-11-09T21:19:19Z" finished-at="2018-11-09T21:19:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="AfM()[pri:0, instance:com.skerp.qa.pagetest.Test1@3bfdc050]" name="AfM" is-config="true" duration-ms="0" started-at="2018-11-09T21:19:19Z" finished-at="2018-11-09T21:19:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfM -->
+        <test-method status="PASS" signature="AfC()[pri:0, instance:com.skerp.qa.pagetest.Test1@3bfdc050]" name="AfC" is-config="true" duration-ms="1" started-at="2018-11-09T21:19:19Z" finished-at="2018-11-09T21:19:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfC -->
+        <test-method status="PASS" signature="AfT()[pri:0, instance:com.skerp.qa.pagetest.Test1@3bfdc050]" name="AfT" is-config="true" duration-ms="0" started-at="2018-11-09T21:19:19Z" finished-at="2018-11-09T21:19:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfT -->
+        <test-method status="PASS" signature="Afs()[pri:0, instance:com.skerp.qa.pagetest.Test1@3bfdc050]" name="Afs" is-config="true" duration-ms="283" started-at="2018-11-09T21:19:19Z" finished-at="2018-11-09T21:19:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Afs -->
+      </class> <!-- com.skerp.qa.pagetest.Test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

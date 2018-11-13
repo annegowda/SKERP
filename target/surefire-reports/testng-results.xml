@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="1" failed="2" ignored="2" total="9" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="129505" started-at="2018-11-13T08:44:39Z" finished-at="2018-11-13T08:46:48Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="129505" started-at="2018-11-13T08:44:39Z" finished-at="2018-11-13T08:46:48Z">
+      <class name="com.skerp.qa.pagetest.Test2">
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.skerp.qa.pagetest.Test2@6df97b55]" name="test3" duration-ms="1" started-at="2018-11-13T14:16:48Z" finished-at="2018-11-13T14:16:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- com.skerp.qa.pagetest.Test2 -->
+      <class name="com.skerp.qa.pagetest.Test1">
+        <test-method status="PASS" signature="bfs()[pri:0, instance:com.skerp.qa.pagetest.Test1@34b7bfc0]" name="bfs" is-config="true" duration-ms="171" started-at="2018-11-13T14:14:39Z" finished-at="2018-11-13T14:14:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfs -->
+        <test-method status="PASS" signature="beforesuit()[pri:0, instance:com.skerp.qa.pagetest.AEPSListPageTest@67b6d4ae]" name="beforesuit" is-config="true" duration-ms="1" started-at="2018-11-13T14:14:39Z" finished-at="2018-11-13T14:14:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuit -->
+        <test-method status="PASS" signature="bfT()[pri:0, instance:com.skerp.qa.pagetest.Test1@34b7bfc0]" name="bfT" is-config="true" duration-ms="0" started-at="2018-11-13T14:14:39Z" finished-at="2018-11-13T14:14:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfT -->
+        <test-method status="PASS" signature="bfC()[pri:0, instance:com.skerp.qa.pagetest.Test1@34b7bfc0]" name="bfC" is-config="true" duration-ms="1" started-at="2018-11-13T14:16:48Z" finished-at="2018-11-13T14:16:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfC -->
+        <test-method status="PASS" signature="test11()[pri:0, instance:com.skerp.qa.pagetest.Test1@34b7bfc0]" name="test11" duration-ms="0" started-at="2018-11-13T14:16:48Z" finished-at="2018-11-13T14:16:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+        <test-method status="PASS" signature="AfM()[pri:0, instance:com.skerp.qa.pagetest.Test1@34b7bfc0]" name="AfM" is-config="true" duration-ms="0" started-at="2018-11-13T14:16:48Z" finished-at="2018-11-13T14:16:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfM -->
+        <test-method status="PASS" signature="bfM(java.lang.reflect.Method)[pri:0, instance:com.skerp.qa.pagetest.Test1@34b7bfc0]" name="bfM" is-config="true" duration-ms="0" started-at="2018-11-13T14:16:48Z" finished-at="2018-11-13T14:16:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.skerp.qa.pagetest.Test1.test11()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfM -->
+        <test-method status="PASS" signature="bfM(java.lang.reflect.Method)[pri:0, instance:com.skerp.qa.pagetest.Test1@34b7bfc0]" name="bfM" is-config="true" duration-ms="0" started-at="2018-11-13T14:16:48Z" finished-at="2018-11-13T14:16:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.skerp.qa.pagetest.Test1.test2()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bfM -->
+        <test-method status="PASS" signature="AfM()[pri:0, instance:com.skerp.qa.pagetest.Test1@34b7bfc0]" name="AfM" is-config="true" duration-ms="0" started-at="2018-11-13T14:16:48Z" finished-at="2018-11-13T14:16:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfM -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.skerp.qa.pagetest.Test1@34b7bfc0]" name="test2" duration-ms="0" started-at="2018-11-13T14:16:48Z" finished-at="2018-11-13T14:16:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="AfC()[pri:0, instance:com.skerp.qa.pagetest.Test1@34b7bfc0]" name="AfC" is-config="true" duration-ms="0" started-at="2018-11-13T14:16:48Z" finished-at="2018-11-13T14:16:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfC -->
+        <test-method status="PASS" signature="AfT()[pri:0, instance:com.skerp.qa.pagetest.Test1@34b7bfc0]" name="AfT" is-config="true" duration-ms="0" started-at="2018-11-13T14:16:48Z" finished-at="2018-11-13T14:16:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfT -->
+        <test-method status="PASS" signature="Afs()[pri:0, instance:com.skerp.qa.pagetest.Test1@34b7bfc0]" name="Afs" is-config="true" duration-ms="260" started-at="2018-11-13T14:16:48Z" finished-at="2018-11-13T14:16:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Afs -->
+        <test-method status="PASS" signature="aftersuit()[pri:0, instance:com.skerp.qa.pagetest.AEPSListPageTest@67b6d4ae]" name="aftersuit" is-config="true" duration-ms="73" started-at="2018-11-13T14:16:49Z" finished-at="2018-11-13T14:16:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuit -->
+      </class> <!-- com.skerp.qa.pagetest.Test1 -->
+      <class name="com.skerp.qa.pagetest.AEPSListPageTest">
+        <test-method status="FAIL" signature="intializeAll(net.bytebuddy.jar.asm.commons.Method)[pri:0, instance:com.skerp.qa.pagetest.AEPSListPageTest@67b6d4ae]" name="intializeAll" is-config="true" duration-ms="0" started-at="2018-11-13T14:14:39Z" finished-at="2018-11-13T14:14:39Z">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Can inject only one of <ITestContext, XmlTest, Method, Object[]> into a BeforeMethod annotated intializeAll.
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Can inject only one of <ITestContext, XmlTest, Method, Object[]> into a BeforeMethod annotated intializeAll.
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection
+	at org.testng.internal.Parameters.checkParameterTypes(Parameters.java:244)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:172)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:458)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:118)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:206)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:599)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:77)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:159)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:106)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeAll -->
+        <test-method status="SKIP" signature="navigatetoAEPSDeviceMappingPageTest()[pri:0, instance:com.skerp.qa.pagetest.AEPSListPageTest@67b6d4ae]" name="navigatetoAEPSDeviceMappingPageTest" duration-ms="0" started-at="2018-11-13T14:14:39Z" finished-at="2018-11-13T14:14:39Z">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Can inject only one of <ITestContext, XmlTest, Method, Object[]> into a BeforeMethod annotated intializeAll.
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Can inject only one of <ITestContext, XmlTest, Method, Object[]> into a BeforeMethod annotated intializeAll.
+For more information on native dependency injection please refer to http://testng.org/doc/documentation-main.html#native-dependency-injection
+	at org.testng.internal.Parameters.checkParameterTypes(Parameters.java:244)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:172)
+	at org.testng.internal.Parameters.createParameters(Parameters.java:458)
+	at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:118)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:206)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:599)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:77)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:159)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:106)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatetoAEPSDeviceMappingPageTest -->
+      </class> <!-- com.skerp.qa.pagetest.AEPSListPageTest -->
+      <class name="com.skerp.qa.pagetest.LoginTest">
+        <test-method status="PASS" signature="intiateallMethods(java.lang.reflect.Method)[pri:0, instance:com.skerp.qa.pagetest.LoginTest@366e2eef]" name="intiateallMethods" is-config="true" duration-ms="35593" started-at="2018-11-13T14:14:39Z" finished-at="2018-11-13T14:15:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.skerp.qa.pagetest.LoginTest.login(java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intiateallMethods -->
+        <test-method status="FAIL" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.skerp.qa.pagetest.LoginTest@366e2eef]" name="login" duration-ms="16738" started-at="2018-11-13T14:15:15Z" data-provider="dataprovider" finished-at="2018-11-13T14:15:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8095188085]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gowda@12]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Timed out after 15 seconds. Unable to locate the element]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Timed out after 15 seconds. Unable to locate the element
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:90)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy16.isDisplayed(Unknown Source)
+	at com.skerp.qa.pages.MenuPage.IsDashboardDispalyed(MenuPage.java:50)
+	at com.skerp.qa.pagetest.LoginTest.login(LoginTest.java:55)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:77)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:159)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:106)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@href='#/dashboard']/following-sibling::a"}
+  (Session info: chrome=70.0.3538.77)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'DESKTOP-TQEA3MJ', ip: '192.168.1.61', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\user\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.77, webStorageEnabled: true}
+Session ID: ee78a923dfb40277ee3ce2a907362f63
+*** Element info: {Using=xpath, value=.//a[@href='#/dashboard']/following-sibling::a}
+	at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:424)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy12.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.access$001(AjaxElementLocator.java:40)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator$SlowLoadingElement.isLoaded(AjaxElementLocator.java:156)
+	at org.openqa.selenium.support.ui.SlowLoadableComponent.get(SlowLoadableComponent.java:69)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:86)
+	... 39 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="teardownBrowser(org.testng.ITestResult)[pri:0, instance:com.skerp.qa.pagetest.LoginTest@366e2eef]" name="teardownBrowser" is-config="true" duration-ms="538" started-at="2018-11-13T14:15:32Z" finished-at="2018-11-13T14:15:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=login status=FAILURE method=LoginTest.login(java.lang.String, java.lang.String)[pri:0, instance:com.skerp.qa.pagetest.LoginTest@366e2eef] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownBrowser -->
+        <test-method status="PASS" signature="intiateallMethods(java.lang.reflect.Method)[pri:0, instance:com.skerp.qa.pagetest.LoginTest@366e2eef]" name="intiateallMethods" is-config="true" duration-ms="29892" started-at="2018-11-13T14:15:32Z" finished-at="2018-11-13T14:16:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.skerp.qa.pagetest.LoginTest.login(java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intiateallMethods -->
+        <test-method status="FAIL" signature="login(java.lang.String, java.lang.String)[pri:0, instance:com.skerp.qa.pagetest.LoginTest@366e2eef]" name="login" duration-ms="16565" started-at="2018-11-13T14:16:02Z" data-provider="dataprovider" finished-at="2018-11-13T14:16:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9095988085]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[gowda@123]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Timed out after 15 seconds. Unable to locate the element]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Timed out after 15 seconds. Unable to locate the element
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:90)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy16.isDisplayed(Unknown Source)
+	at com.skerp.qa.pages.MenuPage.IsDashboardDispalyed(MenuPage.java:50)
+	at com.skerp.qa.pagetest.LoginTest.login(LoginTest.java:55)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:77)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.executeMulti(TestNGDirectoryTestSuite.java:159)
+	at org.apache.maven.surefire.testng.TestNGDirectoryTestSuite.execute(TestNGDirectoryTestSuite.java:99)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:106)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@href='#/dashboard']/following-sibling::a"}
+  (Session info: chrome=70.0.3538.77)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'DESKTOP-TQEA3MJ', ip: '192.168.1.61', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\user\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.77, webStorageEnabled: true}
+Session ID: 22fe3f43228a6fc03bd1e378d26cb759
+*** Element info: {Using=xpath, value=.//a[@href='#/dashboard']/following-sibling::a}
+	at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:424)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
+	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy12.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:194)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.access$001(AjaxElementLocator.java:40)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator$SlowLoadingElement.isLoaded(AjaxElementLocator.java:156)
+	at org.openqa.selenium.support.ui.SlowLoadableComponent.get(SlowLoadableComponent.java:69)
+	at org.openqa.selenium.support.pagefactory.AjaxElementLocator.findElement(AjaxElementLocator.java:86)
+	... 39 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="teardownBrowser(org.testng.ITestResult)[pri:0, instance:com.skerp.qa.pagetest.LoginTest@366e2eef]" name="teardownBrowser" is-config="true" duration-ms="489" started-at="2018-11-13T14:16:19Z" finished-at="2018-11-13T14:16:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=login status=FAILURE method=LoginTest.login(java.lang.String, java.lang.String)[pri:0, instance:com.skerp.qa.pagetest.LoginTest@366e2eef] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownBrowser -->
+        <test-method status="PASS" signature="intiateallMethods(java.lang.reflect.Method)[pri:0, instance:com.skerp.qa.pagetest.LoginTest@366e2eef]" name="intiateallMethods" is-config="true" duration-ms="29066" started-at="2018-11-13T14:16:19Z" finished-at="2018-11-13T14:16:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.skerp.qa.pagetest.LoginTest.validateLoginPage() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intiateallMethods -->
+        <test-method status="PASS" signature="validateLoginPage()[pri:0, instance:com.skerp.qa.pagetest.LoginTest@366e2eef]" name="validateLoginPage" duration-ms="34" started-at="2018-11-13T14:16:48Z" finished-at="2018-11-13T14:16:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginPage -->
+        <test-method status="PASS" signature="teardownBrowser(org.testng.ITestResult)[pri:0, instance:com.skerp.qa.pagetest.LoginTest@366e2eef]" name="teardownBrowser" is-config="true" duration-ms="144" started-at="2018-11-13T14:16:48Z" finished-at="2018-11-13T14:16:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateLoginPage status=SUCCESS method=LoginTest.validateLoginPage()[pri:0, instance:com.skerp.qa.pagetest.LoginTest@366e2eef] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownBrowser -->
+      </class> <!-- com.skerp.qa.pagetest.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

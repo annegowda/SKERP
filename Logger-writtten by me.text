@@ -1,0 +1,38 @@
+Logger have 3 major levels;
+Logger,Appenders,Layout
+Logger:It is responsible for logging information
+-->Create instence to logger class
+-->levels:5: ALL:All infomation are logged
+             INFO:application current progress
+             ERROR:Error
+             FATAL:print system critical information which are causing the application to crash
+             OFF:No information logged
+             Debug
+             Warning
+
+Appenders:responseble for how to send information to designation,
+          print in console or written in File
+
+Layout:Fomating the logg
+two methods are there public static getRootLogger(),public static getLogger(String name)
+
+
+
+before Suit----suit and test :annotation are common over class,but class,method are specific to perticular class
+
+Test1 and test2 are in class-1,this class consis all annotations->suit,test,classmethod
+Test-3 in another class-2 contain only test-3 method
+::::class,method annotation are repeative with in the class-1,but not applicable for another class-2
+before Suit
+before Test
+before class
+before Method
+test1
+After Method
+before Method
+test2
+After Method
+After class
+class-2 test-3
+After Test
+After Suit

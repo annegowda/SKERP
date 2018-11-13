@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.skerp.qa.ExtendReport.ExtentReporterNG"/>
+  </listeners>
+  <test name="Class(failed)">
+    <classes>
+      <class name="com.skerp.qa.pagetest.LoginTest">
+        <methods>
+          <include name="login" invocation-numbers="1"/>
+          <include name="teardownBrowser"/>
+          <include name="beforesuit"/>
+          <include name="aftersuit"/>
+          <include name="intiateallMethods"/>
+        </methods>
+      </class> <!-- com.skerp.qa.pagetest.LoginTest -->
+      <class name="com.skerp.qa.pagetest.AEPSListPageTest">
+        <methods>
+          <include name="teardownBrowser"/>
+          <include name="navigatetoAEPSDeviceMappingPageTest"/>
+          <include name="intializeAll"/>
+          <include name="beforesuit"/>
+          <include name="aftersuit"/>
+        </methods>
+      </class> <!-- com.skerp.qa.pagetest.AEPSListPageTest -->
+    </classes>
+  </test> <!-- Class(failed) -->
+</suite> <!-- Failed suite [Suite] -->
